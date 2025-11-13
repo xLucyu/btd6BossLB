@@ -1,5 +1,6 @@
-async function test() {
-  console.log();
+async function Main() {
+
 }
 
-console.log("hello");
+
+Main();
